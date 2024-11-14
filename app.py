@@ -3,15 +3,15 @@ import cv2
 from PIL import Image
 import numpy as np
 
-# Set up page title and layout
+# Setting up page title and layout
 st.set_page_config(page_title="Pixel Matrix", layout="wide")
 st.title("🔍 Data management techniques on Images.")
 
-# Sidebar for image upload and processing settings
+# Setting up sidebar for image upload and processing settings
 st.sidebar.title("Upload Images for Comparison")
 st.sidebar.markdown("Choose two images to compare their features.")
 
-# Section 1: Image Upload
+# Section 1: Image Upload two images
 st.markdown("## 1️⃣ Upload Images")
 col1, col2 = st.columns(2)
 with col1:
