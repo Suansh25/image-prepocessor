@@ -110,11 +110,11 @@ if uploaded_file1:
 st.markdown("---")
 st.markdown("### About this Application")
 st.markdown("""
-This tool allows you to upload two images and compare their features using the ORB (Oriented FAST and Rotated BRIEF) algorithm.
-You can adjust various settings to control the matching process, including contrast, match threshold, and more.
+This tool allows to upload two images and compare their features using the ORB (Oriented FAST and Rotated BRIEF) algorithm.
+One can adjust various settings to control the matching process, including contrast, match threshold, and more.
 """)
 st.markdown("### Tips:")
 st.markdown("""
-- Use the **Contrast Adjustment** slider to enhance the visibility of features in your images before matching.
-- The **Edge Detection** and **Noise Reduction** settings help prepare your images for better feature matching.
+-Recommended to use the **Contrast Adjustment** slider to enhance the visibility of features in images before matching.
+- The **Edge Detection** and **Noise Reduction** settings help prepare images for better feature matching.
 """)
