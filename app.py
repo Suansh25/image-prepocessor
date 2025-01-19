@@ -1,3 +1,4 @@
+# to run type'streamlit run app.py' in the terminal
 import streamlit as st
 import cv2
 from PIL import Image
