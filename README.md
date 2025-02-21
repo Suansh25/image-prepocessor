@@ -1,4 +1,4 @@
-Pixel Matrix(Data management techniques on Images) :
+<h1>Pixel Matrix(Data management techniques on Images) :</h1>
 
 
 This project leverages advanced data management techniques to simplify image manipulation. Say goodbye to complicated software and confusing tools—our platform makes working with images intuitive and effortless. Whether you're enhancing resolution, adjusting colors, or applying filters, we've streamlined every process so you can focus on what truly matters—creating stunning visuals with ease.
